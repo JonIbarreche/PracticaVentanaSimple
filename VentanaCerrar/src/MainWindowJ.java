@@ -38,6 +38,8 @@ public class MainWindowJ extends JFrame {
 				try {
 					MainWindowJ frame = new MainWindowJ();
 					frame.setVisible(true);
+					LoginWindowJ frame1 = new LoginWindowJ();
+					frame1.setVisible(true);
 				} catch (Exception e) {
 					e.printStackTrace();
 				}
