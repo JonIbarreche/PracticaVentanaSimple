@@ -1,8 +1,13 @@
 # PracticaVentanaSimple
 
-**Version 1.0.1**
+**Version 1.0.2**
+---
+Pruebas usando [JAVA](https://www.java.com/es/)
 
-Un ejemplo de una ventana simple en Java
+
+Un ejemplo de:
+1) Una ventana simple
+2) Una ventana Login 
 
 
 ---
