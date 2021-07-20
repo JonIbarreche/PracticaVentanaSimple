@@ -29,24 +29,7 @@ public class MainWindowJ extends JFrame {
 	private JSeparator separator_2;
 	private JLabel lblUsuario;
 
-	/**
-	 * Launch the application.
-	 */
-	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
-			public void run() {
-				try {
-					MainWindowJ frame = new MainWindowJ();
-					frame.setVisible(true);
-					LoginWindowJ frame1 = new LoginWindowJ();
-					frame1.setVisible(true);
-				} catch (Exception e) {
-					e.printStackTrace();
-				}
-			}
-		});
-	}
-
+	
 	/**
 	 * Create the frame.
 	 */
