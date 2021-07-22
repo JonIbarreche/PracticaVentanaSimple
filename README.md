@@ -22,8 +22,10 @@ Un ejemplo de:
 ---
 ## TO DO
 
-[] Conectar Ventanas
-[] Mejorar Interfaz de Ventanas
+- [ ] Conectar Ventanas
+- [ ] Mejorar Interfaz de Ventanas
+- [ ] Añadir Usuarios
+- [ ] Añadir parte administrador
 
 
 
