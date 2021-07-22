@@ -19,6 +19,13 @@ Un ejemplo de:
 
 <img src="VentanaCerrar/img/MainWindowJ1.png" width="400" height="250">
 
+---
+## TO DO
+
+[] Conectar Ventanas
+[] Mejorar Interfaz de Ventanas
+
+
 
 ---
 
